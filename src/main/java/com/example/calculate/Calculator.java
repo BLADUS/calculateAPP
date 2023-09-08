@@ -9,6 +9,11 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
+/**
+ * @author Vladislav Osada
+ * @date 08.09.2023 21:14
+ */
+
 public class Calculator extends Application {
 
     private TextField inputField;
